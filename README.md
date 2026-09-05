@@ -26,7 +26,7 @@ GSK 广州数控设备有限公司
 
 面向热误差实验的一体化工作台，将设备采集、数据分析、误差建模与调试流程放进同一个上下文。
 
-[访问产品网站](https://gooddash.github.io/tes-website/) · [查看项目仓库](https://github.com/GOODDASH/tes-website)
+[访问产品网站](https://gooddash.github.io/tes-website/)
 
 ## 技术兴趣
 
